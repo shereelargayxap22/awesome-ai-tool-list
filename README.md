@@ -133,6 +133,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
  
   
   
+- [PrepGo](https://prepgo.com/) - AI-powered AP exam prep platform with practice questions, mock exams, score prediction, and organized AP resources.
+  - **Tags**: `Freemium` `AI` `Education` `Productivity` `Study`
+  - **Pricing**: Freemium
+  - **Contact**: https://x.com/PrepGoTeam
+
 ## Writing
 
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
